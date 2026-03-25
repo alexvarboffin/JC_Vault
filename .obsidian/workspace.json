@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIGMA/Генерация из макета.md",
+                "file": "Мой файл.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Генерация из макета"
+              "title": "Мой файл"
             }
           },
           {
@@ -101,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -231,22 +231,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "87e1b61dfe715fe1",
   "lastOpenFiles": [
+    "Welcome.md",
+    "FIGMA/Генерация из истории макетов.md",
+    "FIGMA/Генерация из макета.md",
     "RUST/Без названия.md",
     "RUST",
     "Без названия",
-    "FIGMA/Генерация из истории макетов.md",
-    "FIGMA/Генерация из макета.md",
     "FIGMA",
     "MANUAL/GIT.md",
     "openclaw.md",
@@ -258,7 +259,6 @@
     "ROLES/ROLE-1.md",
     "Мой файл.md",
     "create a link.md",
-    "ROLES",
-    "Welcome.md"
+    "ROLES"
   ]
 }
