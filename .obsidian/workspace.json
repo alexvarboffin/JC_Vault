@@ -101,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -231,18 +231,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "87e1b61dfe715fe1",
   "lastOpenFiles": [
     "Welcome.md",
+    "openclaw.md",
     "FIGMA/Генерация из истории макетов.md",
     "FIGMA/Генерация из макета.md",
     "RUST/Без названия.md",
@@ -250,7 +251,6 @@
     "Без названия",
     "FIGMA",
     "MANUAL/GIT.md",
-    "openclaw.md",
     "OPENCLAW/intro.md",
     "OPENCLAW",
     "PROMPTS/Без названия.md",
