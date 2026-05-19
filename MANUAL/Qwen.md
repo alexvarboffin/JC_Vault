@@ -1,0 +1,1 @@
+qwen extensions install f/awesome-chatgpt-prompts:prompts.chat
