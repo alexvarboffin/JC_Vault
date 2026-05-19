@@ -1,7 +1,7 @@
 DominikReichl.KeePass
 git checkout main
 git merge --squash dev/map
-git commit -m "Feature: ®¯¨á ­¨¥ ¨§¬¥­¥­¨©"
+git commit -m "Feature: ï¿½ï¿½ï¿½á ­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 
 
 if(BuildConfig.DEBUG) "tww249ly" else
@@ -11,7 +11,7 @@ git diff origin/main --name-only
 
 libraries/ui-theme/src/main/res/font/roboto_bold.ttf
 git ls-tree -r --name-only dev/themefont "libraries\ui-theme\src\main\res\font"
-git checkout dev/themefont C:\SYNCED\ldsonline\libraries\ui-theme\src\main\res\font
+git checkout dev/themefont C:\SYNCED\@@@@\libraries\ui-theme\src\main\res\font
 
 
 implementation("com.github.alexvarboffin:JCTheme:1.0.0")
