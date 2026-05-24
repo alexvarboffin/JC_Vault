@@ -11,14 +11,12 @@
             "id": "ce9866a55d02bc6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MANUAL/GIT.md",
-                "mode": "source",
-                "source": false
+                "file": "MANUAL/Quirks/20260318_200450.jpg"
               },
-              "icon": "lucide-file",
-              "title": "GIT"
+              "icon": "lucide-image",
+              "title": "20260318_200450"
             }
           }
         ]
@@ -171,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "terminal:Open terminal": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -180,20 +179,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ce9866a55d02bc6a",
+  "active": "939dbaeec12ce01d",
   "lastOpenFiles": [
-    "MANUAL/GEMINI.md",
+    "MANUAL/Quirks/photo_2026-03-18_20-33-15.jpg",
+    "MANUAL/Quirks/photo_2026-03-18_19-47-19.jpg",
+    "MANUAL/Quirks/ROADMAP.md",
+    "MANUAL/Quirks/20260318_200450.jpg",
     "MANUAL/GIT.md",
+    "MANUAL/GEMINI.md",
     "MANUAL/Git (2).md",
     "Documentation/Material3.md",
     "Documentation",
     "MANUAL/cordova/Снимок экрана 2026-03-16 144430.png",
     "MANUAL/cordova/CORDOVA_IOS_ROADMAP.md",
     "MANUAL/cordova",
-    "MANUAL/Quirks/ROADMAP.md",
-    "MANUAL/Quirks/photo_2026-03-18_20-33-15.jpg",
-    "MANUAL/Quirks/photo_2026-03-18_19-47-19.jpg",
-    "MANUAL/Quirks/20260318_200450.jpg",
     "MANUAL/Quirks"
   ]
 }
