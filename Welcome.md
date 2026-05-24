@@ -3,7 +3,7 @@ You are a Senior Developer with 15 years of experience
 
 lazagne
 gen-lang-client-0803597625
-setx GEMINI_API_KEY AIzaSyD1PqbDxTvsOEyzT7rXExTMg-72Qw3SS_k
+setx G//EMINI_API_KEY ........
 
 
 Listed directory history

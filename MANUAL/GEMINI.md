@@ -9,7 +9,7 @@ npm install -g @google/gemini-cli
 gemini extensions install https://github.com/figma/figma-gemini-cli-extension
 
 
-/derectory add C:\GEMINI\LK_WEB\new-lk\app\workspaces\frontend
+/derectory add @@@@\app\workspaces\frontend
 gemini --resume 1 /directory add C:\SYNCED\ldsonline
 
 ```

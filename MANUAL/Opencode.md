@@ -23,7 +23,7 @@
         }
       },
       "options": {
-        "baseURL": "http://ai.lds.net.ru/api/v1",
+        "baseURL": "http://ai.####/api/v1",
 		"apiKey": "sk-d14072d1a6924500a366ff4bf4c9542f"
       }
     }

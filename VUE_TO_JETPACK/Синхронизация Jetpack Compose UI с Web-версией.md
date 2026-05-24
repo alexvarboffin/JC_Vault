@@ -8,9 +8,9 @@
   Алгоритм действий:
 
    1. Исследование (Research):
-       * Найди файл в Android-проекте (C:\SYNCED\ldsonline), где определен целевой компонент. Проанализируй его текущую
+       * Найди файл в Android-проекте (@@@@@@@), где определен целевой компонент. Проанализируй его текущую
          структуру, используемую ViewModel и Contract.
-       * Найди соответствующий Vue-компонент в Web-проекте (C:\GEMINI\LK_WEB\new-lk\app\workspaces\frontend\src).
+       * Найди соответствующий Vue-компонент в Web-проекте (@@@@\app\workspaces\frontend\src).
          Используй grep_search по ключевым словам для поиска .vue файлов, конфигов в modalConfigs.ts и сервисов в
          services.service.ts.
 

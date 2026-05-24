@@ -11,3 +11,7 @@
 │ Page Up/Page Down - Scroll page up/down                                                                              │
 │ Shift+Tab - Toggle auto-accepting edits                                                                              │
 │ Ctrl+P/Ctrl+N - Cycle through your prompt history
+
+
+## Gemini Added Memories
+- @@@@
