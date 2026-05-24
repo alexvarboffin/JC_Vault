@@ -11,10 +11,14 @@
             "id": "ce9866a55d02bc6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MANUAL/GIT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "GIT"
             }
           }
         ]
@@ -177,5 +181,19 @@
     }
   },
   "active": "ce9866a55d02bc6a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "MANUAL/Git (2).md",
+    "MANUAL/GIT.md",
+    "MANUAL/GEMINI.md",
+    "Documentation/Material3.md",
+    "Documentation",
+    "MANUAL/cordova/Снимок экрана 2026-03-16 144430.png",
+    "MANUAL/cordova/CORDOVA_IOS_ROADMAP.md",
+    "MANUAL/cordova",
+    "MANUAL/Quirks/ROADMAP.md",
+    "MANUAL/Quirks/photo_2026-03-18_20-33-15.jpg",
+    "MANUAL/Quirks/photo_2026-03-18_19-47-19.jpg",
+    "MANUAL/Quirks/20260318_200450.jpg",
+    "MANUAL/Quirks"
+  ]
 }

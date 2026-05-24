@@ -1,6 +1,6 @@
 robocopy "C:\Users\combo\AppData\Roaming\npm" "C:\Users\lazagne47pro\AppData\Roaming\npm" /E /COPYALL
 
-
+gemini 1+1
 npm install -g @google/gemini-cli@latest
 npm install -g @google/gemini-cli@latest  
 npm install -g @google/gemini-cli@preview

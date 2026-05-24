@@ -1,7 +1,7 @@
 DominikReichl.KeePass
 git checkout main
 git merge --squash dev/map
-git commit -m "Feature: ®¯¨á ­¨¥ ¨§¬¥­¥­¨©"
+git commit -m "Feature: ï¿½ï¿½ï¿½á ­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 
 
 if(BuildConfig.DEBUG) "tww249ly" else

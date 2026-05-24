@@ -15,3 +15,8 @@ git checkout dev/0505 network\lk0-kmp
 
 @@
 dir /s /b *Repository.kt
+
+git config --get fetch.prune
+
+
+""" git fetch --prune
