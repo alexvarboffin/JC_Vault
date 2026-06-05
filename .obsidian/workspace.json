@@ -11,12 +11,14 @@
             "id": "ce9866a55d02bc6a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MANUAL/Quirks/20260318_200450.jpg"
+                "file": "MANUAL/GIT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20260318_200450"
+              "icon": "lucide-file",
+              "title": "GIT"
             }
           }
         ]
@@ -179,12 +181,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "939dbaeec12ce01d",
+  "active": "ce9866a55d02bc6a",
   "lastOpenFiles": [
+    "MANUAL/Quirks/20260318_200450.jpg",
     "MANUAL/Quirks/photo_2026-03-18_20-33-15.jpg",
     "MANUAL/Quirks/photo_2026-03-18_19-47-19.jpg",
     "MANUAL/Quirks/ROADMAP.md",
-    "MANUAL/Quirks/20260318_200450.jpg",
     "MANUAL/GIT.md",
     "MANUAL/GEMINI.md",
     "MANUAL/Git (2).md",
