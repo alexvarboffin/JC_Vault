@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "her",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,11 +183,14 @@
   },
   "active": "ce9866a55d02bc6a",
   "lastOpenFiles": [
+    "MANUAL/Hermes.md",
+    "OPENCLAW/Intro 2.md",
+    "OPENCLAW/intro.md",
+    "MANUAL/GIT.md",
     "MANUAL/Quirks/20260318_200450.jpg",
     "MANUAL/Quirks/photo_2026-03-18_20-33-15.jpg",
     "MANUAL/Quirks/photo_2026-03-18_19-47-19.jpg",
     "MANUAL/Quirks/ROADMAP.md",
-    "MANUAL/GIT.md",
     "MANUAL/GEMINI.md",
     "MANUAL/Git (2).md",
     "Documentation/Material3.md",
