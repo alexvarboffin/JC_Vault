@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIGMA/Генерация из истории макетов.md",
+                "file": "VUE_TO_JETPACK/Синхронизация Jetpack Compose UI с Web-версией.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Генерация из истории макетов"
+              "title": "Синхронизация Jetpack Compose UI с Web-версией"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мастерпромпт MasterPrompt.md",
+                "query": "skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +182,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ce9866a55d02bc6a",
+  "active": "302af09b6cef0149",
   "lastOpenFiles": [
+    "FIGMA/Генерация из макета.md",
+    "FIGMA/Генерация из истории макетов.md",
     "Documentation/Material3.md",
     "OPENCLAW/intro.md",
     "PROMPTS/Без названия.md",
