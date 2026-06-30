@@ -1,4 +1,6 @@
 git clean -f -f -d -d
+`git clean -f -f -d -d -x` выполняет **принудительное удаление всех неотслеживаемых файлов и директорий** в рабочем каталоге, включая те, что игнорируются Git (например, указанные в `.gitignore`)
+
 
 git init
 git remote add origin https://github.com/alexvarboffin/architect-workspace.git
