@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a2b7dc17eabfe1d0",
+  "active": "302af09b6cef0149",
   "lastOpenFiles": [
     "MANUAL/openclaude.md",
     "MANUAL/kmp.md",
